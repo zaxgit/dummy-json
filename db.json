@@ -1,12 +1,32 @@
 {
-  "projects": {
-    "zaxcode": {
-      "likes": 3
+  "customers": [
+    {
+      "id": 1,
+      "name": "Sadie",
+      "purchaseTotals": [
+        50, 75, 100, 150
+      ]
     },
-    "jbc studios": {
-      "likes": 2
+        {
+      "id": 2,
+      "name": "Wade",
+      "purchaseTotals": [
+        75, 100, 150, 200
+      ]
     },
-    "amber derousse": {
-       "likes": 1
-    }
+        {
+      "id": 3,
+      "name": "Don",
+      "purchaseTotals": [
+        75, 150, 300, 500
+      ]
+    },
+        {
+      "id": 4,
+      "name": "Gary",
+      "purchaseTotals": [
+        50, 65, 333, 1000,
+      ]
+    },
+    ]
 }
