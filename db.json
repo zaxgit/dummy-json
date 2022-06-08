@@ -3,30 +3,22 @@
     {
       "id": 1,
       "name": "Sadie",
-      "purchaseTotals": [
-        50, 75, 100, 150
-      ]
+      "purchaseTotals": [50, 75, 100, 150]
     },
-        {
+    {
       "id": 2,
       "name": "Wade",
-      "purchaseTotals": [
-        75, 100, 150, 200
-      ]
+      "purchaseTotals": [75, 100, 150, 200]
     },
-        {
+    {
       "id": 3,
       "name": "Don",
-      "purchaseTotals": [
-        75, 150, 300, 500
-      ]
+      "purchaseTotals": [75, 150, 300, 500]
     },
-        {
+    {
       "id": 4,
       "name": "Gary",
-      "purchaseTotals": [
-        50, 65, 333, 1000,
-      ]
-    },
-    ]
+      "purchaseTotals": [50, 65, 333, 1000]
+    }
+  ]
 }
