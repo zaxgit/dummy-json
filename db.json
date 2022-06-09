@@ -2,23 +2,101 @@
   "customers": [
     {
       "id": 1,
-      "name": "Sadie",
-      "purchaseTotals": [50, 75, 100, 150]
+      "name": "Sadie"
     },
     {
       "id": 2,
-      "name": "Wade",
-      "purchaseTotals": [75, 100, 150, 200]
+      "name": "Wade"
     },
     {
       "id": 3,
-      "name": "Don",
-      "purchaseTotals": [75, 150, 300, 500]
+      "name": "Don"
     },
     {
       "id": 4,
-      "name": "Gary",
-      "purchaseTotals": [50, 65, 333, 1000]
+      "name": "Gary"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "total": 50,
+      "customer": 1 
+    },
+    {
+      "id": 2,
+      "total": 75,
+      "customer": 1
+    },
+    {
+      "id": 3,
+      "total": 100,
+      "customer": 1
+    },
+    {
+      "id": 4,
+      "total": 150,
+      "customer": 1
+    },
+    {
+      "id": 5,
+      "total": 75,
+      "customer": 2
+    },
+    {
+      "id": 6,
+      "total": 100,
+      "customer": 2
+    },
+    {
+      "id": 7,
+      "total": 150,
+      "customer": 2
+    },
+    {
+      "id": 8,
+      "total": 200,
+      "customer": 2
+    },
+    {
+      "id": 9,
+      "total": 75,
+      "customer": 3
+    },
+    {
+      "id": 10,
+      "total": 150,
+      "customer": 3
+    },
+    {
+      "id": 11,
+      "total": 300,
+      "customer": 3
+    },
+    {
+      "id": 12,
+      "total": 500,
+      "customer": 3
+    },
+    {
+      "id": 13,
+      "total": 150,
+      "customer": 4
+    },
+    {
+      "id": 14,
+      "total": 150,
+      "customer": 4
+    },
+    {
+      "id": 15,
+      "total": 150,
+      "customer": 4
+    },
+    {
+      "id": 16,
+      "total": 150,
+      "customer": 4
     }
   ]
 }
