@@ -22,97 +22,97 @@
       "id": 1,
       "total": 50,
       "customer": 1,
-      "month": "January"
+      "date": "2022-01-01"
     },
     {
       "id": 2,
       "total": 75,
       "customer": 1,
-      "month": "February"
+      "date": "2022-02-01"
     },
     {
       "id": 3,
       "total": 100,
       "customer": 1,
-      "month": "January"
+      "date": "2022-02-10"
     },
     {
       "id": 4,
       "total": 150,
       "customer": 1,
-      "month": "March"
+      "date": "2022-03-15"
     },
     {
       "id": 5,
       "total": 75,
       "customer": 2,
-      "month": "January"
+      "date": "2022-01-01"
     },
     {
       "id": 6,
       "total": 100,
       "customer": 2,
-      "month": "February"
+      "date": "2022-02-10"
     },
     {
       "id": 7,
       "total": 150,
       "customer": 2,
-      "month": "February"
+      "date": "2022-02-01"
     },
     {
       "id": 8,
       "total": 200,
       "customer": 2,
-      "month": "March"
+      "date": "2022-03-15"
     },
     {
       "id": 9,
       "total": 75,
       "customer": 3,
-      "month": "January"
+      "date": "2022-01-01"
     },
     {
       "id": 10,
       "total": 150,
       "customer": 3,
-      "month": "February"
+      "date": "2022-02-10"
     },
     {
       "id": 11,
       "total": 300,
       "customer": 3,
-      "month": "March"
+      "date": "2022-03-15"
     },
     {
       "id": 12,
       "total": 500,
       "customer": 3,
-      "month": "February"
+      "date": "2022-02-01"
     },
     {
       "id": 13,
       "total": 150,
       "customer": 4,
-      "month": "March"
+      "date": "2022-01-01"
     },
     {
       "id": 14,
       "total": 150,
       "customer": 4,
-      "month": "February"
+      "date": "2022-02-01"
     },
     {
       "id": 15,
       "total": 150,
       "customer": 4,
-      "month": "March"
+      "date": "2022-03-15"
     },
     {
       "id": 16,
       "total": 150,
       "customer": 4,
-      "month": "January"
+      "date": "2022-02-10"
     }
   ]
 }
