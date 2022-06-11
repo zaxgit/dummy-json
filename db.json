@@ -92,25 +92,25 @@
     },
     {
       "id": 13,
-      "total": 150,
+      "total": 36,
       "customer": 4,
       "date": "2022-01-01"
     },
     {
       "id": 14,
-      "total": 150,
+      "total": 78,
       "customer": 4,
       "date": "2022-02-01"
     },
     {
       "id": 15,
-      "total": 150,
+      "total": 462,
       "customer": 4,
       "date": "2022-03-15"
     },
     {
       "id": 16,
-      "total": 150,
+      "total": 200,
       "customer": 4,
       "date": "2022-02-10"
     }
