@@ -198,30 +198,18 @@
     },
     {
       "id": 28,
-      "total": 221,
-      "customer": 7,
-      "date": "03-14-2022"
-    },
-    {
-      "id": 29,
       "total": 230,
       "customer": 8,
       "date": "03-21-2022"
     },
     {
-      "id": 30,
+      "id": 29,
       "total": 176,
       "customer": 8,
       "date": "01-19-2022"
     },
     {
-      "id": 31,
-      "total": 241,
-      "customer": 8,
-      "date": "02-15-2022"
-    },
-    {
-      "id": 32,
+      "id": 30,
       "total": 89,
       "customer": 8,
       "date": "01-07-2022"
